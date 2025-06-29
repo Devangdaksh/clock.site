@@ -62,4 +62,4 @@ Contact: devangkumarprajapati1908@gmail.com
 
 ## License
 
-This project is for educational and festive use. Feel free to modify and share!
+This project is for educational use. Feel free to modify and share!
